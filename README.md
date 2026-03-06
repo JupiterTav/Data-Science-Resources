@@ -1,5 +1,5 @@
 # Data-Science-Resources
-
+ ### WIP
 Não há livros na biblioteca do INF sobre  ciência de dados (oq tem me causado certa inquietação), então decidi criar este repositório com a intenção de armazer  links/materiais para estudo ao longo da cadeira de ciência de dados  🎲👇:
 -------
 
