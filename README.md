@@ -1,5 +1,5 @@
 # Data-Science-Resources
-
+ ### WIP
 Não há livros na biblioteca do INF sobre  ciência de dados (oq tem me causado certa inquietação), então decidi criar este repositório com a intenção de armazer  links/materiais para estudo ao longo da cadeira de ciência de dados  🎲👇:
 -------
 
@@ -13,11 +13,13 @@ Não há livros na biblioteca do INF sobre  ciência de dados (oq tem me causado
      -  https://github.com/jakevdp/PythonDataScienceHandbook
 
 ## 2. Data Analysis, Manipulation, and Machine Learning Libraries (Python):
-  -  [Livros/artigos] (github.com/JupiterTav/Data-Science-Resources/tree/main/Data_Analysis_Manipulation_Maching_Learning)
+  -  [Livros/artigos](https://github.com/JupiterTav/Data-Science-Resources/tree/main/Data_Analysis_Manipulation_Maching_Learning)
 ## 3. Development Environments and Tools:
 
 ## 4. Data Visualization and Business Intelligence (BI):
   ### Altair:
+  -  [Livros/artigos](https://github.com/JupiterTav/Data-Science-Resources/tree/main/Data_Visualization/Altair)
+    
   https://idl.uw.edu/visualization-curriculum/altair_introduction.html
   -  DOC:
      -  https://altair-viz.github.io/index.html    
