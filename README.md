@@ -9,8 +9,6 @@ Não há livros na biblioteca do INF sobre  ciência de dados (oq tem me causado
   
   -  DOC:
      -  https://www.python.org/doc/
-  -  outros githubs:
-     -  https://github.com/jakevdp/PythonDataScienceHandbook
 
 ## 2. Data Analysis, Manipulation, and Machine Learning Libraries (Python):
   -  [Livros/artigos](https://github.com/JupiterTav/Data-Science-Resources/tree/main/Data_Analysis_Manipulation_Maching_Learning)
@@ -24,3 +22,9 @@ Não há livros na biblioteca do INF sobre  ciência de dados (oq tem me causado
   -  DOC:
      -  https://altair-viz.github.io/index.html    
 ## 5.Big Data and Cloud Computing:
+
+## outros repositórios:
+    
+  https://github.com/jakevdp/PythonDataScienceHandbook
+
+  https://github.com/microsoft/Data-Science-For-Beginners
